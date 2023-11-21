@@ -521,15 +521,15 @@ img {
 }
 
 .skills__js {
-	width: 60%;
+	width: 85%;
 }
 
 .skills__html {
-	width: 75%;
+	width: 85%;
 }
 
 .skills__css {
-	width: 65%;
+	width: 85%;
 }
 
 .skills__ps {
@@ -557,11 +557,14 @@ img {
 }
 
 .skills__react {
-	width: 65%;
+	width: 90%;
 }
 
 .skills__django {
-	width: 60%;
+	width:75%;
+}
+.skills__next {
+    width: 70%;
 }
 
 .skills__dsa {
@@ -644,6 +647,14 @@ img {
 	height: 100%;
 	background-color: var(--first-color);
 	transform: translate(6px, -7px);
+}
+
+.qualification [data-content]{
+	display: none;
+}
+
+.qualification__active[data-content]{
+	display: block;
 }
 
 /*==================== SERVICES ====================*/

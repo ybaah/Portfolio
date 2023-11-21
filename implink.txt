@@ -1,5 +1,0 @@
-file:///D:/Game%20Projects/Roller-madness/_WebGL/index.html     ----   roller madness
-
-
-
-file:///D:/Game%20Projects/Box%20Shooter/WebGL/index.html    ---- box shooter
